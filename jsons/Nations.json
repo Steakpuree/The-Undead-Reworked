@@ -1,0 +1,54 @@
+[
+	{
+		"name": "The Undead",
+		"leaderName": "The Mindless Horde",
+		"adjective": ["Undead"],
+		"preferredVictoryType": "Domination",
+		"style": "Undead",
+		
+		"startIntroPart1": "'When there's no more room in Hell, the dead will walk the earth.' - George A. Romero",
+		"startIntroPart2": "'Darkness falls across the land, the midnight hour is close at hand, creatures crawl in search of blood to terrorize y'all's neighborhood' - Vincent Price",
+		
+		"declaringWar": "BRAINS!",
+		"attacked": "Grrr!",
+		"defeated": "Urk!",
+		"introduction": "Brains...",
+		
+		"neutralHello": "Brains?",
+		"neutralLetsHearIt": "Talk?",
+		"neutralNo": "Bad...",
+		"neutralYes": "Good...",
+
+		"hateHello": "Grrr...",
+		"hateLetsHearIt": "Talk...",
+		"hateNo": "Hate!",
+		"hateYes": "Okay...",
+		
+		"afterPeace": "Mmmm....good brains.",
+		"tradeRequest": "T-...tr-...trade?",
+
+		"outerColor": [15,5,5],
+		"innerColor": [255,255,255],
+		"uniqueName": "The Great Infectious Horde",
+		"uniqueText": "Cannot build Settlers. Massive disadvantages when trying to ally with City-States. +30% Strength when fighting City-State units and cities. 67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment (50% for naval units). Unhappiness from population largely decreased. Science, Culture, and Golden Ages decreased by 50%. 10% combat bonus from Fallout and Graveyards. Melee units heal 25 damage and gain culture when they kill a unit. Units fight as though they were at full strength even when damaged. All military units have a 10% penalty against other military units. Non-air units have a bonus against cities.",
+		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment", "50% chance of capturing defeated Barbarian naval units and earning 25 Gold",
+			"Unhappiness from population decreased by [75]%",
+			"+30% Strength when fighting City-State units and cities",
+			"City-State Influence degrades [-100]% slower", "Gifts of Gold to City-States generate [-100]% more Influence", "Resting point for Influence with City-States is increased by [-60]",
+			"Golden Age length increased by [-50]%",
+			"-[33]% [All] unit maintenance costs",
+			"+[15]% Production when constructing [military] units",
+			"+[-10]% Production when constructing [Wonders]",
+			"[All] units gain the [Undead] promotion",
+			"[non-air] units gain the [Breach the Walls] promotion",
+			"[Melee] units gain the [Eat the Living] promotion", "[Mounted] units gain the [Eat the Living] promotion", "[Armor] units gain the [Eat the Living] promotion", "[WaterMelee] units gain the [Eat the Living] promotion", "[Scout] units gain the [Eat the Living] promotion",
+			"[+3 Food, +2 Production, +2 Gold, +2 Happiness] from every [Graveyard]",
+			"[+3 Culture, +1 Production, +1 Gold, +1 Food] from every [Abyss]",
+			"+[10]% Strength if within [1] tiles of a [Graveyard]",
+			"+[-50]% [Science] in all cities",
+			"+[-50]% [Culture] in all cities",
+			"+[10]% combat bonus for units fighting in [Fallout]",
+			"Units fight as though they were at full strength even when damaged"],
+		"cities": ["Ground Zero"]
+	}
+]
