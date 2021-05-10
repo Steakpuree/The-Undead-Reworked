@@ -117,7 +117,7 @@
 		"promotions": ["Undead","Sickening Plague"]
 	},
 	{
-		"name": "Spear Skeleton"
+		"name": "Spear Skeleton",
 		"uniqueTo": "The Undead",
 		"replaces": "Spearman",
 		"unitType": "Melee",
